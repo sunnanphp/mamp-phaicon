@@ -1,17 +1,11 @@
 #Donate
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SUGJXW97ALEZY)
 
 #Installation:
 
 1. **Copy** `phalcon.so` to `/Applications/MAMP/bin/php/phpx.x.x/lib/php/extensions/no-debug-non-zts-201x1212`
 2. Add `extension=phalcon.so` to the end of `php.ini` (Open MAMP click on File → Edit Template → PHP → PHP x.x.x php.ini)
 3. **Restart** MAMP.
-
-Older [releases](https://github.com/majksner/php-phalcon-mamp/releases)
-
-##Dependencies:
-N/A
 
 ##Change Log:
 * 0.20 - Phalcon 3.1.2 build for MAMP 4.1.1 and PHP 7.1.3
